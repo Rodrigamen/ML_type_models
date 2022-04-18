@@ -1,6 +1,11 @@
 # Machine Learning
 ## Type Learning
 
+puntos:
+- definicion del modelo
+- usos principales del modelo
+- variables principales que inflyen en el modelo
+
 1. Rodri
 - 1.1. Aprendizaje semisupervisado
 - 1.2. Aprendizaje reforzaado

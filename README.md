@@ -3,22 +3,18 @@
 
 
 1. Rodri
-- 1.1. Aprendizaje semisupervisado
-- 1.2. Aprendizaje reforzaado
+- Aprendizaje semisupervisado
+- Aprendizaje no supervisado
   
 2. Antonio
-- 2.1. Aprendizaje supervisado
+- Aprendizaje supervisado
+- Aprendizaje reforzaado
   
-3. Edu
-- 3.1. Aprendizaje no supervisado
-
 ## Model types
 
+Edu
 puntos:
 - definicion del modelo
 - usos principales del modelo
 - variables principales que inflyen en el modelo
 
-1. Rodri
-2. Antonio
-3. Edu

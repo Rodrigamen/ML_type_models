@@ -12,7 +12,8 @@
   
 ## Model types
 
-Edu
+3.Edu
+
 puntos:
 - definicion del modelo
 - usos principales del modelo

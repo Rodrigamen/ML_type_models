@@ -48,6 +48,4 @@ An artificial neural network comprises a set of units that are in a series of la
 PCA es un procedimiento estadístico que usa una transformación ortogonal para convertir un conjunto de observaciones de variables posiblemente correlacionadas en un conjunto de valores de variables linealmente no correlacionadas llamadas componentes principales. Análisis de componentes principales. 
 Algunas de las aplicaciones de PCA incluyen compresión, simplificación de datos para un aprendizaje más fácil, visualización. Tenga en cuenta que el conocimiento del dominio es muy importante al elegir si seguir adelante con PCA o no. No es adecuado en los casos en que los datos son ruidosos (todos los componentes de PCA tienen una variación bastante alta).
 
-
-- **Algoritmos de aprendizaje profundo**:
-Los algoritmos de Deep Learning son aquellos que ejecutan datos a través de capas compuestas por varias capas de algoritmos de redes neuronales en las que pasan una representación simplificada de los datos obtenidos a la capa siguiente. Estos algoritmos funcionan de forma fluida con conjuntos de datos estructurados.
+![](images/PCA.png)

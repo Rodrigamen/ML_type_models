@@ -29,7 +29,7 @@ This type of algorithm is one of the most implemented since, despite its simplic
 ---
 #### Aprendizaje No Supervisado
 - **Clustering**:
-- They are mainly used in unsupervised machine learning since it allows organizing and categorizing unlabeled data. This algorithm performs group searches within the data represented by a variable. It works iteratively to assign each data point to one of the groups represented in the variable based on the characteristics that were set as default.
+They are mainly used in unsupervised machine learning since it allows organizing and categorizing unlabeled data. This algorithm performs group searches within the data represented by a variable. It works iteratively to assign each data point to one of the groups represented in the variable based on the characteristics that were set as default.
 
 ![](images/clustering_algorithm.png)
 
